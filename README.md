@@ -7,23 +7,7 @@
 
 ## 🔥 Актуальный промокод 1win 2026 года
 
-<p style="text-align:center; margin:24px 0;">
-  <span
-    style="
-      display:inline-block;
-      padding:10px 22px;
-      border-radius:999px;
-      background:linear-gradient(135deg,#111827,#1d4ed8);
-      color:#ffffff;
-      font-weight:700;
-      letter-spacing:1px;
-      font-size:18px;
-      box-shadow:0 10px 25px rgba(0,0,0,0.35);
-    "
-  >
-    ПРОМОКОД: <span style="color:#38bdf8;">YOU2</span>
-  </span>
-</p>
+ 🎁 **Промокод: YOU2**
 
 Указывается во время регистрации. Доступен для новых аккаунтов.
 
